@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-~ I'm Pietro.
+I'm Pietro. Computer Science Student based in Italy.
 ~ Tech enthusiast.
 ~ Computer Science student passionate about *Artificial Intelligence & Data Analytics*
 ~ Languages: Python, C, sql
