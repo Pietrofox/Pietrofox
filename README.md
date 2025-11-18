@@ -8,13 +8,17 @@ If an idea pops into my head, chances are I’ll build it and ship it.
 
 My main tech stack is Python, C and a little of SQL. My favorite tools are Visual Studio Code, Replit and SQL Workbench.
 
+
+I'm always curious about automation & AI
+
 Fun Facts:
 
     I have a girlfriend that is like a cat
     I love coffee
     Sword Art Online is my favorite anime
+    Elden Ring is my favourite game atm
     My dream is to build a virtual world like Aincrad (SAO's world)
-    Hobbies: anime, gym, building things
+    Hobbies: anime, gym, building things, gaming
 
 <!--
 **Pietrofox/Pietrofox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,10 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Pietro. Computer Science Student based in Italy.
-~ Tech enthusiast.
-~ Computer Science student passionate about *Artificial Intelligence & Data Analytics*
-~ Languages: Python, C, sql
-~ Long Term Projects: Building bots using gamification
-~ Open to collaborate in any AI Project
-~ Always curious about automation and AI
+
