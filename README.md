@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+~ I'm Pietro.
+~ Tech enthusiast.
+~ Computer Science student passionate about *Artificial Intelligence & Data Analytics*
+~ Languages: Python, C, sql
+~ Long Term Projects: Building bots using gamification
+~ Open to collaborate in any AI Project
+~ Always curious about automation and AI
